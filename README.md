@@ -13,3 +13,10 @@ I can include your suggested changes to the code. If it doesn't break it of cour
 So if you wan't to contribute, I'll be very happy to see the outcome of this.
 
 Many thanks
+
+
+=================
+Update v0.1
+=================
+
+Changed the way the plugin relates to the path of the images.
